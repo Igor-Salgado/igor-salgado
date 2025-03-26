@@ -4,11 +4,11 @@
 
 ### 💡 About Me
 - 🎓 A mining engineer pursuing a postgraduate degree in software engineering;
-- 🌱 Constantly learning new technologies.
+- 🌱 Consistently learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <div>
   <a href="https://github.com/Igor-Salgado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-salgado&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
@@ -17,7 +17,7 @@
     
 ---
   
-## 🔧 Tech Stack & Tools
+### 🔧 Tech Stack & Tools
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,4 +27,4 @@
 
 ---
 
-Let's build something amazing together! 🚀
+### 🚀 Let’s create something awesome together!
