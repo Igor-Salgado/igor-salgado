@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**Igor-Salgado/igor-salgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Engineer | Python | JavaScript
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🎓 A mining engineer pursuing a postgraduate degree in software engineering;
+- 🌱 Constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+<div>
+  <a href="https://github.com/arthurhpabreu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhpabreu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhpabreu&layout=compact&langs_count=8&theme=monokai">
+</div>
+
+---
+
+## 🔧 Tech Stack & Tools
+
+Let's build something amazing together! 🚀
