@@ -1,6 +1,8 @@
 # 👋 Hi there!
 
-## 🚀 Engineer | Python | JavaScript
+### 🚀 Engineer | Python | JavaScript
+
+---
 
 ### 💡 About Me
 - 🎓 A mining engineer pursuing a postgraduate degree in software engineering;
@@ -27,4 +29,4 @@
 
 ---
 
-### 🚀 Let’s create something awesome together!
+#### 🚀 Let’s create something awesome together!
