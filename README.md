@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-### 🚀 Engineer | Python | JavaScript
+### 🚀 Engineer | Python | Go
 
 ---
 
